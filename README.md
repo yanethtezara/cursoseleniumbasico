@@ -1,7 +1,7 @@
 # cursoseleniumbasico
 
-Hola!! este es ell curso Selenium
+Hola!! este es el curso Selenium
 
-estamos trabajando con Git.
+estamos trabajando con Git y Sourcetree
 
 Saludos!!
